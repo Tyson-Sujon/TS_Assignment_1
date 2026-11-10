@@ -34,9 +34,9 @@ This repository contains my completed TypeScript assignment, including programmi
 
 
 
-1. \[Type Alias vs Interface in TypeScript: Core Differences and When to Use Them](https://github.com/Tyson-Sujon/TS\_Assignment\_1/blob/main/type-vs-interface.md)
+1. [Type Alias vs Interface in TypeScript: Core Differences and When to Use Them](https://github.com/Tyson-Sujon/TS\_Assignment\_1/blob/main/type-vs-interface.md)
 
-2. \[What Happens to TypeScript Code During Compilation (`tsc`), and What Role Does `tsconfig.json` Play?](https://github.com/Tyson-Sujon/TS\_Assignment\_1/blob/main/typescript-compilation-and-configuration.md)
+2. [What Happens to TypeScript Code During Compilation (`tsc`), and What Role Does `tsconfig.json` Play?](https://github.com/Tyson-Sujon/TS\_Assignment\_1/blob/main/typescript-compilation-and-configuration.md)
 
 
 
